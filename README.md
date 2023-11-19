@@ -1,17 +1,11 @@
 # Data Scientist
 ### Education
-- Indira Gandhi National Open University, New Delhi, India	Post Graduate Diploma, Applied Statistics
-- Punjab Engineering College (Deemed to be University), Chandigarh, India
--- Bachelor of Technology, Mechanical Engineering, Minor Specialization in Computer Science
-
-Ann Mary School, Dehradun, India
-XII (ISC)	
-X (ICSE)
+- Post Graduate Diploma, Applied Statistics, IGNOU, New Delhi, India	Post Graduate Diploma, Applied Statistics
+- BTech Mechanical Engineering with a CSE minor, Punjab Engineering College, Chandigarh, India
 
 ### Skills
-PROGRAMMING LANGUAGES	:	Java, Python, C, C++, HTML, CSS, javascript, php, SQL, MATLAB
-SOFTWARES/TOOLS		:	Excel, Power point, Tableau, CATIA, Autodesk, NetBeans, Android
-						Studio, TensorFlow, Numpy, Pandas, R
+- PROGRAMMING LANGUAGES: Java, Python, C, C++, HTML, CSS, javascript, php, SQL, MATLAB
+- SOFTWARES/TOOLS: Excel, Power point, Tableau, CATIA, Autodesk, NetBeans, Android Studio, TensorFlow, Numpy, Pandas, R
 ### Coursework
 Computer Networks, Database Management Systems, Data Structures and Algorithms, Computer Crime Investigation and Forensics, Software Engineering, Object Oriented Programming, Web Technologies, Partial Differential Equation and Special Functions, Python for Data Science, Introduction to Operating Systems, AI and Development, Supervised Machine Learning: Regression and Classification, Advanced Learning Algorithms (Artificial Neural Networks), Unsupervised Learning, Recommenders, Reinforcement Learning  
 ### Experience
