@@ -1,25 +1,18 @@
-# Data Scientist
 ### Education
-- Post Graduate Diploma, Applied Statistics, IGNOU, New Delhi, India	Post Graduate Diploma, Applied Statistics (2023-Present)
-- BTech Mechanical Engineering with a CSE minor, Punjab Engineering College, Chandigarh, India (2015-2019)
+- **Post Graduate Diploma, Applied Statistics**, IGNOU, New Delhi, India	Post Graduate Diploma, Applied Statistics _(2023-Present)_
+- **BTech Mechanical Engineering with a CSE minor**, Punjab Engineering College, Chandigarh, India _(2015-2019)_
 
 ### Skills
-- PROGRAMMING LANGUAGES: Java, Python, C, C++, HTML, CSS, javascript, php, SQL, MATLAB
-- SOFTWARES/TOOLS: Excel, Power point, Tableau, CATIA, Autodesk, NetBeans, Android Studio, TensorFlow, Numpy, Pandas, R
+- **PROGRAMMING LANGUAGES:** Java, Python, C, C++, HTML, CSS, javascript, php, SQL, MATLAB
+- **SOFTWARES/TOOLS:** Excel, Power point, Tableau, CATIA, Autodesk, NetBeans, Android Studio, TensorFlow, Numpy, Pandas, R
 
 ### Coursework
 Computer Networks, Database Management Systems, Data Structures and Algorithms, Computer Crime Investigation and Forensics, Software Engineering, Object Oriented Programming, Web Technologies, Partial Differential Equation and Special Functions, Python for Data Science, Introduction to Operating Systems, AI and Development, Supervised Machine Learning: Regression and Classification, Advanced Learning Algorithms (Artificial Neural Networks), Unsupervised Learning, Recommenders, Reinforcement Learning  
 
 ### Experience
-Decision Analytics Associate at ZS Associates, Gurugram _(Sept 2021-July 2023)_
--Worked on multiple US as well as multi country market research projects including ATU (awareness, trial and usage), Chart Audit, Demand estimation and Conjoint
-Designed patient and physician surveys to capture relevant information keeping the project KPIs in mind
-Built analysis workbooks in Excel/ ZS internal tools to run efficient quality checks on large volumes of data and flag violators for exclusion from the final data set. Created patient cards for conjoint study using Python/R programming to automate the process and eliminate the risk of human errors
-Conducted the final analysis and used data results (both qualitative and quantitative) to gather insights while working on story boarding, running data visualization using charts and graphs to eventually deliver business solutions to client teams
-o	Contributed for a white paper studying the patient and provider behaviours in the European Markets
-	Mechanical Design Engineer at Alstom Transport, Bengaluru 				      July 2019-Aug 2021
-o	Owned the designing of driver desk and PACIS (Passenger information systems) for multiple national and international metro projects (Mumbai, Chennai, Perth, Bucharest, and Montreal). Coordinated with stakeholders to ensure internal alignment and on-time design delivery
-o	Worked on the standardization of metro design using previous design data to create a prototype in CATIA to be used for future projects for the manufacturing cost and time reduction
-	Intern at Tata Motors, Pune								                              Jan 2018-May 2018
-o	Automobile: Collected data from quality check centres to identify the failures in manufactured vehicles. Subsequently, conducted PFMEA (Process failure mode effects analysis) for fitment stations to identify the root cause of failures and suggested correction methods aiming to reduce hydraulic leakage in commercial vehicles by 20%
-o	Android Studio: Helped in building a mobile application to avoid accidents on the manufacturing line by restricting walking while talking on the phone
+- **Decision Analytics Associate at ZS Associates**, Gurugram _(Sept 2021-July 2023)_
+Experience working on multi country market research projects, both qualitative and quantitative, like ATU (awareness, trial and usage), Chart Audit, Demand estimation, Conjoint, Voice of Customer, etc; designing questionnaires for patients, physicians and providers based on project KPIs; running quality checks on volumes of data; data and statistical analysis using Excel or ZS internal tools; storyboarding; generating conclusive insights for exploratory and specific research
+- **Mechanical Design Engineer at Alstom Transport**, Bengaluru _(July 2019-Aug 2021)_
+Owner and designer of driver cabin and PACIS (Passenger information systems) installations for rolling stock projects using CATIA; standardization of smart metro design
+**Intern at Tata Motors**, Pune _(Jan 2018-May 2018)_
+Identifying failures in commercial vehicles and conducting PFMEA (Process failure mode effects analysis) to identify the root cause of failures and suggested correction methods aiming to reduce hydraulic leakage in commercial vehicles by 30%; developing a mobile application to avoid accidents on the manufacturing line by restricting walking while talking on the phone using **Android Studio**
