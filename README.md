@@ -1,16 +1,18 @@
 # Data Scientist
 ### Education
-- Post Graduate Diploma, Applied Statistics, IGNOU, New Delhi, India	Post Graduate Diploma, Applied Statistics
-- BTech Mechanical Engineering with a CSE minor, Punjab Engineering College, Chandigarh, India
+- Post Graduate Diploma, Applied Statistics, IGNOU, New Delhi, India	Post Graduate Diploma, Applied Statistics (2023-Present)
+- BTech Mechanical Engineering with a CSE minor, Punjab Engineering College, Chandigarh, India (2015-2019)
 
 ### Skills
 - PROGRAMMING LANGUAGES: Java, Python, C, C++, HTML, CSS, javascript, php, SQL, MATLAB
 - SOFTWARES/TOOLS: Excel, Power point, Tableau, CATIA, Autodesk, NetBeans, Android Studio, TensorFlow, Numpy, Pandas, R
+
 ### Coursework
 Computer Networks, Database Management Systems, Data Structures and Algorithms, Computer Crime Investigation and Forensics, Software Engineering, Object Oriented Programming, Web Technologies, Partial Differential Equation and Special Functions, Python for Data Science, Introduction to Operating Systems, AI and Development, Supervised Machine Learning: Regression and Classification, Advanced Learning Algorithms (Artificial Neural Networks), Unsupervised Learning, Recommenders, Reinforcement Learning  
+
 ### Experience
-Decision Analytics Associate at ZS Associates, Gurugram					        Sept 2021-July 2023
-Worked on multiple US as well as multi country market research projects including ATU (awareness, trial and usage), Chart Audit, Demand estimation and Conjoint
+Decision Analytics Associate at ZS Associates, Gurugram _(Sept 2021-July 2023)_
+-Worked on multiple US as well as multi country market research projects including ATU (awareness, trial and usage), Chart Audit, Demand estimation and Conjoint
 Designed patient and physician surveys to capture relevant information keeping the project KPIs in mind
 Built analysis workbooks in Excel/ ZS internal tools to run efficient quality checks on large volumes of data and flag violators for exclusion from the final data set. Created patient cards for conjoint study using Python/R programming to automate the process and eliminate the risk of human errors
 Conducted the final analysis and used data results (both qualitative and quantitative) to gather insights while working on story boarding, running data visualization using charts and graphs to eventually deliver business solutions to client teams
