@@ -44,3 +44,8 @@ Identifying failures in commercial vehicles and conducting PFMEA (Process failur
 - Joint Discipline Head- Hostel Committee
 - Industrial Tour Coordinator for the batch of 2019, Mechanical Engineering: Planned and coordinated with the faculty, students and respective company personnel to organize the industrial tour/training in Mumbai and Pune in 2016
 - Volunteer: Participated in awareness marathons, clothes’ distribution drives, cleanliness drives and tree plantations as a part of two NGOs- JOY (Just Open Yourself) and MAD (Making A Difference by Being The Difference)
+
+- ### SPORTS
+- ### VOLUNTEERING
+- #### JOY (Just Open Yourself)
+- #### MAD (Making A Difference by Being The Difference)
