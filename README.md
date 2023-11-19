@@ -11,7 +11,7 @@ Ann Mary School, Dehradun, India
 XII (ISC)	
 X (ICSE)
 
-###Skills
+### Skills
 	PROGRAMMING LANGUAGES	:	Java, Python, C, C++, HTML, CSS, javascript, php, SQL, MATLAB
 	SOFTWARES/TOOLS		:	Excel, Power point, Tableau, CATIA, Autodesk, NetBeans, Android
 						Studio, TensorFlow, Numpy, Pandas, R
