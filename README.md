@@ -46,7 +46,7 @@ Identifying failures in commercial vehicles and conducting PFMEA (Process failur
 
 ### VOLUNTEERING
 - #### JOY (Just Open Yourself)
--- Clothes distribution drive
--Tree plantation
+- Clothes distribution drive
+- Tree plantation
 - #### MAD (Making A Difference by Being The Difference)
 - MADathon: A run to save water
